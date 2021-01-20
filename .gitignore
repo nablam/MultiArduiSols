@@ -1,32 +1,115 @@
+YouGotMailino/*.rsuser
+YouGotMailino/*.suo
+YouGotMailino/*.user
+YouGotMailino/*.userosscache
+YouGotMailino/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+YouGotMailino/*.userprefs
+
+
+YouGotMailino/*.rsuser
+YouGotMailino/*.suo
+YouGotMailino/*.user
+YouGotMailino/*.userosscache
+YouGotMailino/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+YouGotMailino/*.userprefs
+
+# Build results
+YouGotMailino/[Dd]ebug/
+YouGotMailino/[Dd]ebugPublic/
+YouGotMailino/[Rr]elease/
+YouGotMailino/[Rr]eleases/
+YouGotMailino/x64/
+YouGotMailino/x86/
+YouGotMailino/[Ww][Ii][Nn]32/
+YouGotMailino/[Aa][Rr][Mm]/
+YouGotMailino/[Aa][Rr][Mm]64/
+YouGotMailino/bld/
+YouGotMailino/[Bb]in/
+YouGotMailino/[Oo]bj/
+YouGotMailino/[Ll]og/
+YouGotMailino/[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+YouGotMailino/.vs/
+
+# Files built by Visual Studio
+YouGotMailino/*_i.c
+YouGotMailino/*_p.c
+YouGotMailino/*_h.h
+YouGotMailino/*.ilk
+YouGotMailino/*.meta
+YouGotMailino/*.obj
+YouGotMailino/*.iobj
+YouGotMailino/*.pch
+YouGotMailino/*.pdb
+YouGotMailino/*.ipdb
+YouGotMailino/*.pgc
+YouGotMailino/*.pgd
+YouGotMailino/*.rsp
+YouGotMailino/*.sbr
+YouGotMailino/*.tlb
+YouGotMailino/*.tli
+YouGotMailino/*.tlh
+YouGotMailino/*.tmp
+YouGotMailino/*.tmp_proj
+YouGotMailino/*_wpftmp.csproj
+YouGotMailino/*.log
+YouGotMailino/*.vspscc
+YouGotMailino/*.vssscc
+YouGotMailino/.builds
+YouGotMailino/*.pidb
+YouGotMailino/*.svclog
+YouGotMailino/*.scc
+
+# Visual C++ cache files
+YouGotMailino/ipch/
+YouGotMailino/*.aps
+YouGotMailino/*.ncb
+YouGotMailino/*.opendb
+YouGotMailino/*.opensdf
+YouGotMailino/*.sdf
+YouGotMailino/*.cachefile
+YouGotMailino/*.VC.db
+YouGotMailino/*.VC.VC.opendb
+
+
+ Visual Studio code coverage results
+YouGotMailino/*.coverage
+YouGotMailino/*.coveragexml
+
 # Prerequisites
-*.d
+YouGotMailino/*.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+YouGotMailino/.slo
+YouGotMailino/*.lo
+YouGotMailino/*.o
+YouGotMailino/*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+YouGotMailino/*.gch
+YouGotMailino/*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+YouGotMailino/*.so
+YouGotMailino/*.dylib
+YouGotMailino/*.dll
 
 # Fortran module files
-*.mod
-*.smod
+YouGotMailino/*.mod
+YouGotMailino/*.smod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+YouGotMailino/*.lai
+YouGotMailino/*.la
+YouGotMailino/*.a
+YouGotMailino/*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+YouGotMailino/*.exe
+YouGotMailino/*.out
+YouGotMailino/*.app
