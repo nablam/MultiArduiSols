@@ -1,3 +1,4 @@
+#----------------------YouGotMailino
 YouGotMailino/*.rsuser
 YouGotMailino/*.suo
 YouGotMailino/*.user
@@ -113,3 +114,240 @@ YouGotMailino/*.lib
 YouGotMailino/*.exe
 YouGotMailino/*.out
 YouGotMailino/*.app
+
+#----------------------BlueToothino_A
+
+BlueToothino_A/*.rsuser
+BlueToothino_A/*.suo
+BlueToothino_A/*.user
+BlueToothino_A/*.userosscache
+BlueToothino_A/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+BlueToothino_A/*.userprefs
+
+
+BlueToothino_A/*.rsuser
+BlueToothino_A/*.suo
+BlueToothino_A/*.user
+BlueToothino_A/*.userosscache
+BlueToothino_A/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+BlueToothino_A/*.userprefs
+
+# Build results
+BlueToothino_A/[Dd]ebug/
+BlueToothino_A/[Dd]ebugPublic/
+BlueToothino_A/[Rr]elease/
+BlueToothino_A/[Rr]eleases/
+BlueToothino_A/x64/
+BlueToothino_A/x86/
+BlueToothino_A/[Ww][Ii][Nn]32/
+BlueToothino_A/[Aa][Rr][Mm]/
+BlueToothino_A/[Aa][Rr][Mm]64/
+BlueToothino_A/bld/
+BlueToothino_A/[Bb]in/
+BlueToothino_A/[Oo]bj/
+BlueToothino_A/[Ll]og/
+BlueToothino_A/[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+BlueToothino_A/.vs/
+
+# Files built by Visual Studio
+BlueToothino_A/*_i.c
+BlueToothino_A/*_p.c
+BlueToothino_A/*_h.h
+BlueToothino_A/*.ilk
+BlueToothino_A/*.meta
+BlueToothino_A/*.obj
+BlueToothino_A/*.iobj
+BlueToothino_A/*.pch
+BlueToothino_A/*.pdb
+BlueToothino_A/*.ipdb
+BlueToothino_A/*.pgc
+BlueToothino_A/*.pgd
+BlueToothino_A/*.rsp
+BlueToothino_A/*.sbr
+BlueToothino_A/*.tlb
+BlueToothino_A/*.tli
+BlueToothino_A/*.tlh
+BlueToothino_A/*.tmp
+BlueToothino_A/*.tmp_proj
+BlueToothino_A/*_wpftmp.csproj
+BlueToothino_A/*.log
+BlueToothino_A/*.vspscc
+BlueToothino_A/*.vssscc
+BlueToothino_A/.builds
+BlueToothino_A/*.pidb
+BlueToothino_A/*.svclog
+BlueToothino_A/*.scc
+
+# Visual C++ cache files
+BlueToothino_A/ipch/
+BlueToothino_A/*.aps
+BlueToothino_A/*.ncb
+BlueToothino_A/*.opendb
+BlueToothino_A/*.opensdf
+BlueToothino_A/*.sdf
+BlueToothino_A/*.cachefile
+BlueToothino_A/*.VC.db
+BlueToothino_A/*.VC.VC.opendb
+
+
+ Visual Studio code coverage results
+BlueToothino_A/*.coverage
+BlueToothino_A/*.coveragexml
+
+# Prerequisites
+BlueToothino_A/*.d
+
+# Compiled Object files
+BlueToothino_A/.slo
+BlueToothino_A/*.lo
+BlueToothino_A/*.o
+BlueToothino_A/*.obj
+
+# Precompiled Headers
+BlueToothino_A/*.gch
+BlueToothino_A/*.pch
+
+# Compiled Dynamic libraries
+BlueToothino_A/*.so
+BlueToothino_A/*.dylib
+BlueToothino_A/*.dll
+
+# Fortran module files
+BlueToothino_A/*.mod
+BlueToothino_A/*.smod
+
+# Compiled Static libraries
+BlueToothino_A/*.lai
+BlueToothino_A/*.la
+BlueToothino_A/*.a
+BlueToothino_A/*.lib
+
+# Executables
+BlueToothino_A/*.exe
+BlueToothino_A/*.out
+BlueToothino_A/*.app
+
+#----------------------BlueToothino_B
+
+BlueToothino_B/*.rsuser
+BlueToothino_B/*.suo
+BlueToothino_B/*.user
+BlueToothino_B/*.userosscache
+BlueToothino_B/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+BlueToothino_B/*.userprefs
+
+
+BlueToothino_B/*.rsuser
+BlueToothino_B/*.suo
+BlueToothino_B/*.user
+BlueToothino_B/*.userosscache
+BlueToothino_B/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+BlueToothino_B/*.userprefs
+
+# Build results
+BlueToothino_B/[Dd]ebug/
+BlueToothino_B/[Dd]ebugPublic/
+BlueToothino_B/[Rr]elease/
+BlueToothino_B/[Rr]eleases/
+BlueToothino_B/x64/
+BlueToothino_B/x86/
+BlueToothino_B/[Ww][Ii][Nn]32/
+BlueToothino_B/[Aa][Rr][Mm]/
+BlueToothino_B/[Aa][Rr][Mm]64/
+BlueToothino_B/bld/
+BlueToothino_B/[Bb]in/
+BlueToothino_B/[Oo]bj/
+BlueToothino_B/[Ll]og/
+BlueToothino_B/[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+BlueToothino_B/.vs/
+
+# Files built by Visual Studio
+BlueToothino_B/*_i.c
+BlueToothino_B/*_p.c
+BlueToothino_B/*_h.h
+BlueToothino_B/*.ilk
+BlueToothino_B/*.meta
+BlueToothino_B/*.obj
+BlueToothino_B/*.iobj
+BlueToothino_B/*.pch
+BlueToothino_B/*.pdb
+BlueToothino_B/*.ipdb
+BlueToothino_B/*.pgc
+BlueToothino_B/*.pgd
+BlueToothino_B/*.rsp
+BlueToothino_B/*.sbr
+BlueToothino_B/*.tlb
+BlueToothino_B/*.tli
+BlueToothino_B/*.tlh
+BlueToothino_B/*.tmp
+BlueToothino_B/*.tmp_proj
+BlueToothino_B/*_wpftmp.csproj
+BlueToothino_B/*.log
+BlueToothino_B/*.vspscc
+BlueToothino_B/*.vssscc
+BlueToothino_B/.builds
+BlueToothino_B/*.pidb
+BlueToothino_B/*.svclog
+BlueToothino_B/*.scc
+
+# Visual C++ cache files
+BlueToothino_B/ipch/
+BlueToothino_B/*.aps
+BlueToothino_B/*.ncb
+BlueToothino_B/*.opendb
+BlueToothino_B/*.opensdf
+BlueToothino_B/*.sdf
+BlueToothino_B/*.cachefile
+BlueToothino_B/*.VC.db
+BlueToothino_B/*.VC.VC.opendb
+
+
+ Visual Studio code coverage results
+BlueToothino_B/*.coverage
+BlueToothino_B/*.coveragexml
+
+# Prerequisites
+BlueToothino_B/*.d
+
+# Compiled Object files
+BlueToothino_B/.slo
+BlueToothino_B/*.lo
+BlueToothino_B/*.o
+BlueToothino_B/*.obj
+
+# Precompiled Headers
+BlueToothino_B/*.gch
+BlueToothino_B/*.pch
+
+# Compiled Dynamic libraries
+BlueToothino_B/*.so
+BlueToothino_B/*.dylib
+BlueToothino_B/*.dll
+
+# Fortran module files
+BlueToothino_B/*.mod
+BlueToothino_B/*.smod
+
+# Compiled Static libraries
+BlueToothino_B/*.lai
+BlueToothino_B/*.la
+BlueToothino_B/*.a
+BlueToothino_B/*.lib
+
+# Executables
+BlueToothino_B/*.exe
+BlueToothino_B/*.out
+BlueToothino_B/*.app
+
