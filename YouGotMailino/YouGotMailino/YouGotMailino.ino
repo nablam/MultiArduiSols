@@ -306,16 +306,71 @@ const unsigned char sample[] PROGMEM = {
   115, 121, 126, 131, 133, 134, 136, 140, 140, 136, 129, 122, 112, 105, 107, 108, 114, 124, 136, 145, 148, 148, 143, 133, 124, 117, 112, 112, 114, 117, 122, 127, 131, 134, 136, 133, 129, 127, 126, 124, 126, 128, 126, 124, 122, 121, 117, 117, 122, 129, 138, 143, 147, 143, 136, 128, 115, 108, 105, 105, 110, 119, 128, 134, 136, 136, 133, 129, 124, 119, 119, 117, 115, 117, 119, 121, 122, 122, 126, 126, 128, 129, 128, 124, 122, 121, 117, 117, 119, 122, 124, 126, 128, 129, 126, 126, 128, 126, 124, 126,
   126, 124, 124, 126, 126, 124, 126, 126, 128, 126, 127, 129, 131, 127, 128, 124, 122, 122, 124, 126, 128, 129, 131, 129, 128, 129, 128, 129, 129, 131, 133, 131, 129, 128, 124, 122, 124, 122, 124, 128, 129, 133, 133, 134, 131, 127, 126, 124, 124, 124, 126, 128, 131, 133, 131, 129, 128, 126, 122, 124, 122, 124, 126, 128, 126, 128, 126, 124, 124, 126, 128, 129, 131, 127, 121, 115, 108, 107, 108, 114, 122, 133, 140, 141, 141, 136, 129, 121, 115, 112, 110, 115, 117, 124, 127, 131, 131, 129, 127, 126,
     };
+const int pingPin = 10;
+long duration, cm;
+
+ 
+//unsigned long currentTime ;
+ 
+bool triggered = false;
 
 void setup()
     {
-    pinMode(10, OUTPUT);
+   // Serial.begin(9600);
     
     startPlayback(sample, sizeof(sample));
+    delay(3000);
     }
 
-void loop()
+void loop() {
+    DoPing();
+    
+    }
+
+void DoPing()
     {
-    digitalWrite(10, HIGH);
+   
+    pinMode(pingPin, OUTPUT);
+    digitalWrite(pingPin, LOW);
+    delayMicroseconds(2);
+    digitalWrite(pingPin, HIGH);
+    delayMicroseconds(5);
+    digitalWrite(pingPin, LOW);
+
+    // The same pin is used to read the signal from the PING))): a HIGH pulse
+    // whose duration is the time (in microseconds) from the sending of the ping
+    // to the reception of its echo off of an object.
+    pinMode(pingPin, INPUT);
+    duration = pulseIn(pingPin, HIGH);
+
+    cm = microsecondsToCentimeters(duration);
+
+    if (cm < 10) {
+        
+        if (!triggered) {
+            triggered = true;
+            startPlayback(sample, sizeof(sample));
+            delay(3000);
+            triggered = false;
+            }
+        }
+  
+   
+   /* Serial.print(cm);
+    Serial.print("cm");
+    Serial.println();*/
+
+    delay(100);
+
+ 
     }
 
+
+ 
+
+long microsecondsToCentimeters(long microseconds) {
+  // The speed of sound is 340 m/s or 29 microseconds per centimeter.
+  // The ping travels out and back, so to find the distance of the object we
+  // take half of the distance travelled.
+    return microseconds / 29 / 2;
+    }
