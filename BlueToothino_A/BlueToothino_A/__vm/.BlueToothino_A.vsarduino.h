@@ -90,5 +90,6 @@ typedef void *__builtin_va_list;
 #define pgm_read_ptr(address_short)   short()
 
 #include "BlueToothino_A.ino"
+#include "ButtonsAndLEDS.ino"
 #endif
 #endif
