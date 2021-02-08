@@ -1,0 +1,13 @@
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\bin\Debug\netcoreapp3.1\OledHelperTool.exe
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\bin\Debug\netcoreapp3.1\OledHelperTool.deps.json
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\bin\Debug\netcoreapp3.1\OledHelperTool.runtimeconfig.json
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\bin\Debug\netcoreapp3.1\OledHelperTool.runtimeconfig.dev.json
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\bin\Debug\netcoreapp3.1\OledHelperTool.dll
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\bin\Debug\netcoreapp3.1\OledHelperTool.pdb
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.csprojAssemblyReference.cache
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.AssemblyInfoInputs.cache
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.AssemblyInfo.cs
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.csproj.CoreCompileInputs.cache
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.dll
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.pdb
+E:\Robotics\MultipleArduinoSolutions\MultiArduiSols\CsharpOledHelper\OledHelperTool\OledHelperTool\obj\Debug\netcoreapp3.1\OledHelperTool.genruntimeconfig.cache
