@@ -1,5 +1,5 @@
-C:\Users\lamri\AppData\Local\Temp\VMBuilds\BlueToothino_A\uno\Debug\BlueToothino_A.cpp.o: \
- C:\Users\lamri\AppData\Local\Temp\VMBuilds\BlueToothino_A\uno\Debug\BlueToothino_A.cpp \
+C:\Users\lamri\AppData\Local\Temp\VMBuilds\BlueToothino_B\uno\Debug\BlueToothino_B.cpp.o: \
+ C:\Users\lamri\AppData\Local\Temp\VMBuilds\BlueToothino_B\uno\Debug\BlueToothino_B.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
