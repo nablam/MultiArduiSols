@@ -1,473 +1,473 @@
 
-#----------------------YouGotMailino
-YouGotMailino/*.rsuser
-YouGotMailino/*.suo
-YouGotMailino/*.user
-YouGotMailino/*.userosscache
-YouGotMailino/*.sln.docstates
+#----------------------YouGotMailino/YouGotMailino
+YouGotMailino/YouGotMailino/*.rsuser
+YouGotMailino/YouGotMailino/*.suo
+YouGotMailino/YouGotMailino/*.user
+YouGotMailino/YouGotMailino/*.userosscache
+YouGotMailino/YouGotMailino/*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-YouGotMailino/*.userprefs
+YouGotMailino/YouGotMailino/*.userprefs
 
 
-YouGotMailino/*.rsuser
-YouGotMailino/*.suo
-YouGotMailino/*.user
-YouGotMailino/*.userosscache
-YouGotMailino/*.sln.docstates
+YouGotMailino/YouGotMailino/*.rsuser
+YouGotMailino/YouGotMailino/*.suo
+YouGotMailino/YouGotMailino/*.user
+YouGotMailino/YouGotMailino/*.userosscache
+YouGotMailino/YouGotMailino/*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-YouGotMailino/*.userprefs
+YouGotMailino/YouGotMailino/*.userprefs
 
 # Build results
-YouGotMailino/[Dd]ebug/
-YouGotMailino/[Dd]ebugPublic/
-YouGotMailino/[Rr]elease/
-YouGotMailino/[Rr]eleases/
-YouGotMailino/x64/
-YouGotMailino/x86/
-YouGotMailino/[Ww][Ii][Nn]32/
-YouGotMailino/[Aa][Rr][Mm]/
-YouGotMailino/[Aa][Rr][Mm]64/
-YouGotMailino/bld/
-YouGotMailino/[Bb]in/
-YouGotMailino/[Oo]bj/
-YouGotMailino/[Ll]og/
-YouGotMailino/[Ll]ogs/
+YouGotMailino/YouGotMailino/[Dd]ebug/
+YouGotMailino/YouGotMailino/[Dd]ebugPublic/
+YouGotMailino/YouGotMailino/[Rr]elease/
+YouGotMailino/YouGotMailino/[Rr]eleases/
+YouGotMailino/YouGotMailino/x64/
+YouGotMailino/YouGotMailino/x86/
+YouGotMailino/YouGotMailino/[Ww][Ii][Nn]32/
+YouGotMailino/YouGotMailino/[Aa][Rr][Mm]/
+YouGotMailino/YouGotMailino/[Aa][Rr][Mm]64/
+YouGotMailino/YouGotMailino/bld/
+YouGotMailino/YouGotMailino/[Bb]in/
+YouGotMailino/YouGotMailino/[Oo]bj/
+YouGotMailino/YouGotMailino/[Ll]og/
+YouGotMailino/YouGotMailino/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-YouGotMailino/.vs/
+YouGotMailino/YouGotMailino/.vs/
 
 # Files built by Visual Studio
-YouGotMailino/*_i.c
-YouGotMailino/*_p.c
-YouGotMailino/*_h.h
-YouGotMailino/*.ilk
-YouGotMailino/*.meta
-YouGotMailino/*.obj
-YouGotMailino/*.iobj
-YouGotMailino/*.pch
-YouGotMailino/*.pdb
-YouGotMailino/*.ipdb
-YouGotMailino/*.pgc
-YouGotMailino/*.pgd
-YouGotMailino/*.rsp
-YouGotMailino/*.sbr
-YouGotMailino/*.tlb
-YouGotMailino/*.tli
-YouGotMailino/*.tlh
-YouGotMailino/*.tmp
-YouGotMailino/*.tmp_proj
-YouGotMailino/*_wpftmp.csproj
-YouGotMailino/*.log
-YouGotMailino/*.vspscc
-YouGotMailino/*.vssscc
-YouGotMailino/.builds
-YouGotMailino/*.pidb
-YouGotMailino/*.svclog
-YouGotMailino/*.scc
+YouGotMailino/YouGotMailino/*_i.c
+YouGotMailino/YouGotMailino/*_p.c
+YouGotMailino/YouGotMailino/*_h.h
+YouGotMailino/YouGotMailino/*.ilk
+YouGotMailino/YouGotMailino/*.meta
+YouGotMailino/YouGotMailino/*.obj
+YouGotMailino/YouGotMailino/*.iobj
+YouGotMailino/YouGotMailino/*.pch
+YouGotMailino/YouGotMailino/*.pdb
+YouGotMailino/YouGotMailino/*.ipdb
+YouGotMailino/YouGotMailino/*.pgc
+YouGotMailino/YouGotMailino/*.pgd
+YouGotMailino/YouGotMailino/*.rsp
+YouGotMailino/YouGotMailino/*.sbr
+YouGotMailino/YouGotMailino/*.tlb
+YouGotMailino/YouGotMailino/*.tli
+YouGotMailino/YouGotMailino/*.tlh
+YouGotMailino/YouGotMailino/*.tmp
+YouGotMailino/YouGotMailino/*.tmp_proj
+YouGotMailino/YouGotMailino/*_wpftmp.csproj
+YouGotMailino/YouGotMailino/*.log
+YouGotMailino/YouGotMailino/*.vspscc
+YouGotMailino/YouGotMailino/*.vssscc
+YouGotMailino/YouGotMailino/.builds
+YouGotMailino/YouGotMailino/*.pidb
+YouGotMailino/YouGotMailino/*.svclog
+YouGotMailino/YouGotMailino/*.scc
 
 # Visual C++ cache files
-YouGotMailino/ipch/
-YouGotMailino/*.aps
-YouGotMailino/*.ncb
-YouGotMailino/*.opendb
-YouGotMailino/*.opensdf
-YouGotMailino/*.sdf
-YouGotMailino/*.cachefile
-YouGotMailino/*.VC.db
-YouGotMailino/*.VC.VC.opendb
+YouGotMailino/YouGotMailino/ipch/
+YouGotMailino/YouGotMailino/*.aps
+YouGotMailino/YouGotMailino/*.ncb
+YouGotMailino/YouGotMailino/*.opendb
+YouGotMailino/YouGotMailino/*.opensdf
+YouGotMailino/YouGotMailino/*.sdf
+YouGotMailino/YouGotMailino/*.cachefile
+YouGotMailino/YouGotMailino/*.VC.db
+YouGotMailino/YouGotMailino/*.VC.VC.opendb
 
 
  Visual Studio code coverage results
-YouGotMailino/*.coverage
-YouGotMailino/*.coveragexml
+YouGotMailino/YouGotMailino/*.coverage
+YouGotMailino/YouGotMailino/*.coveragexml
 
 # Prerequisites
-YouGotMailino/*.d
+YouGotMailino/YouGotMailino/*.d
 
 # Compiled Object files
-YouGotMailino/.slo
-YouGotMailino/*.lo
-YouGotMailino/*.o
-YouGotMailino/*.obj
+YouGotMailino/YouGotMailino/.slo
+YouGotMailino/YouGotMailino/*.lo
+YouGotMailino/YouGotMailino/*.o
+YouGotMailino/YouGotMailino/*.obj
 
 # Precompiled Headers
-YouGotMailino/*.gch
-YouGotMailino/*.pch
+YouGotMailino/YouGotMailino/*.gch
+YouGotMailino/YouGotMailino/*.pch
 
 # Compiled Dynamic libraries
-YouGotMailino/*.so
-YouGotMailino/*.dylib
-YouGotMailino/*.dll
+YouGotMailino/YouGotMailino/*.so
+YouGotMailino/YouGotMailino/*.dylib
+YouGotMailino/YouGotMailino/*.dll
 
 # Fortran module files
-YouGotMailino/*.mod
-YouGotMailino/*.smod
+YouGotMailino/YouGotMailino/*.mod
+YouGotMailino/YouGotMailino/*.smod
 
 # Compiled Static libraries
-YouGotMailino/*.lai
-YouGotMailino/*.la
-YouGotMailino/*.a
-YouGotMailino/*.lib
+YouGotMailino/YouGotMailino/*.lai
+YouGotMailino/YouGotMailino/*.la
+YouGotMailino/YouGotMailino/*.a
+YouGotMailino/YouGotMailino/*.lib
 
 # Executables
-YouGotMailino/*.exe
-YouGotMailino/*.out
-YouGotMailino/*.app
+YouGotMailino/YouGotMailino/*.exe
+YouGotMailino/YouGotMailino/*.out
+YouGotMailino/YouGotMailino/*.app
 
-#----------------------BlueToothino_A
+#----------------------BlueToothino_A/BlueToothino_A
 
-BlueToothino_A/*.rsuser
-BlueToothino_A/*.suo
-BlueToothino_A/*.user
-BlueToothino_A/*.userosscache
-BlueToothino_A/*.sln.docstates
-
-# User-specific files (MonoDevelop/Xamarin Studio)
-BlueToothino_A/*.userprefs
-
-
-BlueToothino_A/*.rsuser
-BlueToothino_A/*.suo
-BlueToothino_A/*.user
-BlueToothino_A/*.userosscache
-BlueToothino_A/*.sln.docstates
+BlueToothino_A/BlueToothino_A/*.rsuser
+BlueToothino_A/BlueToothino_A/*.suo
+BlueToothino_A/BlueToothino_A/*.user
+BlueToothino_A/BlueToothino_A/*.userosscache
+BlueToothino_A/BlueToothino_A/*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-BlueToothino_A/*.userprefs
+BlueToothino_A/BlueToothino_A/*.userprefs
+
+
+BlueToothino_A/BlueToothino_A/*.rsuser
+BlueToothino_A/BlueToothino_A/*.suo
+BlueToothino_A/BlueToothino_A/*.user
+BlueToothino_A/BlueToothino_A/*.userosscache
+BlueToothino_A/BlueToothino_A/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+BlueToothino_A/BlueToothino_A/*.userprefs
 
 # Build results
-BlueToothino_A/[Dd]ebug/
-BlueToothino_A/[Dd]ebugPublic/
-BlueToothino_A/[Rr]elease/
-BlueToothino_A/[Rr]eleases/
-BlueToothino_A/x64/
-BlueToothino_A/x86/
-BlueToothino_A/[Ww][Ii][Nn]32/
-BlueToothino_A/[Aa][Rr][Mm]/
-BlueToothino_A/[Aa][Rr][Mm]64/
-BlueToothino_A/bld/
-BlueToothino_A/[Bb]in/
-BlueToothino_A/[Oo]bj/
-BlueToothino_A/[Ll]og/
-BlueToothino_A/[Ll]ogs/
+BlueToothino_A/BlueToothino_A/[Dd]ebug/
+BlueToothino_A/BlueToothino_A/[Dd]ebugPublic/
+BlueToothino_A/BlueToothino_A/[Rr]elease/
+BlueToothino_A/BlueToothino_A/[Rr]eleases/
+BlueToothino_A/BlueToothino_A/x64/
+BlueToothino_A/BlueToothino_A/x86/
+BlueToothino_A/BlueToothino_A/[Ww][Ii][Nn]32/
+BlueToothino_A/BlueToothino_A/[Aa][Rr][Mm]/
+BlueToothino_A/BlueToothino_A/[Aa][Rr][Mm]64/
+BlueToothino_A/BlueToothino_A/bld/
+BlueToothino_A/BlueToothino_A/[Bb]in/
+BlueToothino_A/BlueToothino_A/[Oo]bj/
+BlueToothino_A/BlueToothino_A/[Ll]og/
+BlueToothino_A/BlueToothino_A/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-BlueToothino_A/.vs/
+BlueToothino_A/BlueToothino_A/.vs/
 
 # Files built by Visual Studio
-BlueToothino_A/*_i.c
-BlueToothino_A/*_p.c
-BlueToothino_A/*_h.h
-BlueToothino_A/*.ilk
-BlueToothino_A/*.meta
-BlueToothino_A/*.obj
-BlueToothino_A/*.iobj
-BlueToothino_A/*.pch
-BlueToothino_A/*.pdb
-BlueToothino_A/*.ipdb
-BlueToothino_A/*.pgc
-BlueToothino_A/*.pgd
-BlueToothino_A/*.rsp
-BlueToothino_A/*.sbr
-BlueToothino_A/*.tlb
-BlueToothino_A/*.tli
-BlueToothino_A/*.tlh
-BlueToothino_A/*.tmp
-BlueToothino_A/*.tmp_proj
-BlueToothino_A/*_wpftmp.csproj
-BlueToothino_A/*.log
-BlueToothino_A/*.vspscc
-BlueToothino_A/*.vssscc
-BlueToothino_A/.builds
-BlueToothino_A/*.pidb
-BlueToothino_A/*.svclog
-BlueToothino_A/*.scc
+BlueToothino_A/BlueToothino_A/*_i.c
+BlueToothino_A/BlueToothino_A/*_p.c
+BlueToothino_A/BlueToothino_A/*_h.h
+BlueToothino_A/BlueToothino_A/*.ilk
+BlueToothino_A/BlueToothino_A/*.meta
+BlueToothino_A/BlueToothino_A/*.obj
+BlueToothino_A/BlueToothino_A/*.iobj
+BlueToothino_A/BlueToothino_A/*.pch
+BlueToothino_A/BlueToothino_A/*.pdb
+BlueToothino_A/BlueToothino_A/*.ipdb
+BlueToothino_A/BlueToothino_A/*.pgc
+BlueToothino_A/BlueToothino_A/*.pgd
+BlueToothino_A/BlueToothino_A/*.rsp
+BlueToothino_A/BlueToothino_A/*.sbr
+BlueToothino_A/BlueToothino_A/*.tlb
+BlueToothino_A/BlueToothino_A/*.tli
+BlueToothino_A/BlueToothino_A/*.tlh
+BlueToothino_A/BlueToothino_A/*.tmp
+BlueToothino_A/BlueToothino_A/*.tmp_proj
+BlueToothino_A/BlueToothino_A/*_wpftmp.csproj
+BlueToothino_A/BlueToothino_A/*.log
+BlueToothino_A/BlueToothino_A/*.vspscc
+BlueToothino_A/BlueToothino_A/*.vssscc
+BlueToothino_A/BlueToothino_A/.builds
+BlueToothino_A/BlueToothino_A/*.pidb
+BlueToothino_A/BlueToothino_A/*.svclog
+BlueToothino_A/BlueToothino_A/*.scc
 
 # Visual C++ cache files
-BlueToothino_A/ipch/
-BlueToothino_A/*.aps
-BlueToothino_A/*.ncb
-BlueToothino_A/*.opendb
-BlueToothino_A/*.opensdf
-BlueToothino_A/*.sdf
-BlueToothino_A/*.cachefile
-BlueToothino_A/*.VC.db
-BlueToothino_A/*.VC.VC.opendb
+BlueToothino_A/BlueToothino_A/ipch/
+BlueToothino_A/BlueToothino_A/*.aps
+BlueToothino_A/BlueToothino_A/*.ncb
+BlueToothino_A/BlueToothino_A/*.opendb
+BlueToothino_A/BlueToothino_A/*.opensdf
+BlueToothino_A/BlueToothino_A/*.sdf
+BlueToothino_A/BlueToothino_A/*.cachefile
+BlueToothino_A/BlueToothino_A/*.VC.db
+BlueToothino_A/BlueToothino_A/*.VC.VC.opendb
 
 
  Visual Studio code coverage results
-BlueToothino_A/*.coverage
-BlueToothino_A/*.coveragexml
+BlueToothino_A/BlueToothino_A/*.coverage
+BlueToothino_A/BlueToothino_A/*.coveragexml
 
 # Prerequisites
-BlueToothino_A/*.d
+BlueToothino_A/BlueToothino_A/*.d
 
 # Compiled Object files
-BlueToothino_A/.slo
-BlueToothino_A/*.lo
-BlueToothino_A/*.o
-BlueToothino_A/*.obj
+BlueToothino_A/BlueToothino_A/.slo
+BlueToothino_A/BlueToothino_A/*.lo
+BlueToothino_A/BlueToothino_A/*.o
+BlueToothino_A/BlueToothino_A/*.obj
 
 # Precompiled Headers
-BlueToothino_A/*.gch
-BlueToothino_A/*.pch
+BlueToothino_A/BlueToothino_A/*.gch
+BlueToothino_A/BlueToothino_A/*.pch
 
 # Compiled Dynamic libraries
-BlueToothino_A/*.so
-BlueToothino_A/*.dylib
-BlueToothino_A/*.dll
+BlueToothino_A/BlueToothino_A/*.so
+BlueToothino_A/BlueToothino_A/*.dylib
+BlueToothino_A/BlueToothino_A/*.dll
 
 # Fortran module files
-BlueToothino_A/*.mod
-BlueToothino_A/*.smod
+BlueToothino_A/BlueToothino_A/*.mod
+BlueToothino_A/BlueToothino_A/*.smod
 
 # Compiled Static libraries
-BlueToothino_A/*.lai
-BlueToothino_A/*.la
-BlueToothino_A/*.a
-BlueToothino_A/*.lib
+BlueToothino_A/BlueToothino_A/*.lai
+BlueToothino_A/BlueToothino_A/*.la
+BlueToothino_A/BlueToothino_A/*.a
+BlueToothino_A/BlueToothino_A/*.lib
 
 # Executables
-BlueToothino_A/*.exe
-BlueToothino_A/*.out
-BlueToothino_A/*.app
+BlueToothino_A/BlueToothino_A/*.exe
+BlueToothino_A/BlueToothino_A/*.out
+BlueToothino_A/BlueToothino_A/*.app
 
-#----------------------BlueToothino_B
+#---------------------- BlueToothino_B/BlueToothino_B
 
-BlueToothino_B/*.rsuser
-BlueToothino_B/*.suo
-BlueToothino_B/*.user
-BlueToothino_B/*.userosscache
-BlueToothino_B/*.sln.docstates
-
-# User-specific files (MonoDevelop/Xamarin Studio)
-BlueToothino_B/*.userprefs
-
-
-BlueToothino_B/*.rsuser
-BlueToothino_B/*.suo
-BlueToothino_B/*.user
-BlueToothino_B/*.userosscache
-BlueToothino_B/*.sln.docstates
+ BlueToothino_B/BlueToothino_B/*.rsuser
+ BlueToothino_B/BlueToothino_B/*.suo
+ BlueToothino_B/BlueToothino_B/*.user
+ BlueToothino_B/BlueToothino_B/*.userosscache
+ BlueToothino_B/BlueToothino_B/*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-BlueToothino_B/*.userprefs
+ BlueToothino_B/BlueToothino_B/*.userprefs
+
+
+ BlueToothino_B/BlueToothino_B/*.rsuser
+ BlueToothino_B/BlueToothino_B/*.suo
+ BlueToothino_B/BlueToothino_B/*.user
+ BlueToothino_B/BlueToothino_B/*.userosscache
+ BlueToothino_B/BlueToothino_B/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+ BlueToothino_B/BlueToothino_B/*.userprefs
 
 # Build results
-BlueToothino_B/[Dd]ebug/
-BlueToothino_B/[Dd]ebugPublic/
-BlueToothino_B/[Rr]elease/
-BlueToothino_B/[Rr]eleases/
-BlueToothino_B/x64/
-BlueToothino_B/x86/
-BlueToothino_B/[Ww][Ii][Nn]32/
-BlueToothino_B/[Aa][Rr][Mm]/
-BlueToothino_B/[Aa][Rr][Mm]64/
-BlueToothino_B/bld/
-BlueToothino_B/[Bb]in/
-BlueToothino_B/[Oo]bj/
-BlueToothino_B/[Ll]og/
-BlueToothino_B/[Ll]ogs/
+ BlueToothino_B/BlueToothino_B/[Dd]ebug/
+ BlueToothino_B/BlueToothino_B/[Dd]ebugPublic/
+ BlueToothino_B/BlueToothino_B/[Rr]elease/
+ BlueToothino_B/BlueToothino_B/[Rr]eleases/
+ BlueToothino_B/BlueToothino_B/x64/
+ BlueToothino_B/BlueToothino_B/x86/
+ BlueToothino_B/BlueToothino_B/[Ww][Ii][Nn]32/
+ BlueToothino_B/BlueToothino_B/[Aa][Rr][Mm]/
+ BlueToothino_B/BlueToothino_B/[Aa][Rr][Mm]64/
+ BlueToothino_B/BlueToothino_B/bld/
+ BlueToothino_B/BlueToothino_B/[Bb]in/
+ BlueToothino_B/BlueToothino_B/[Oo]bj/
+ BlueToothino_B/BlueToothino_B/[Ll]og/
+ BlueToothino_B/BlueToothino_B/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-BlueToothino_B/.vs/
+ BlueToothino_B/BlueToothino_B/.vs/
 
 # Files built by Visual Studio
-BlueToothino_B/*_i.c
-BlueToothino_B/*_p.c
-BlueToothino_B/*_h.h
-BlueToothino_B/*.ilk
-BlueToothino_B/*.meta
-BlueToothino_B/*.obj
-BlueToothino_B/*.iobj
-BlueToothino_B/*.pch
-BlueToothino_B/*.pdb
-BlueToothino_B/*.ipdb
-BlueToothino_B/*.pgc
-BlueToothino_B/*.pgd
-BlueToothino_B/*.rsp
-BlueToothino_B/*.sbr
-BlueToothino_B/*.tlb
-BlueToothino_B/*.tli
-BlueToothino_B/*.tlh
-BlueToothino_B/*.tmp
-BlueToothino_B/*.tmp_proj
-BlueToothino_B/*_wpftmp.csproj
-BlueToothino_B/*.log
-BlueToothino_B/*.vspscc
-BlueToothino_B/*.vssscc
-BlueToothino_B/.builds
-BlueToothino_B/*.pidb
-BlueToothino_B/*.svclog
-BlueToothino_B/*.scc
+ BlueToothino_B/BlueToothino_B/*_i.c
+ BlueToothino_B/BlueToothino_B/*_p.c
+ BlueToothino_B/BlueToothino_B/*_h.h
+ BlueToothino_B/BlueToothino_B/*.ilk
+ BlueToothino_B/BlueToothino_B/*.meta
+ BlueToothino_B/BlueToothino_B/*.obj
+ BlueToothino_B/BlueToothino_B/*.iobj
+ BlueToothino_B/BlueToothino_B/*.pch
+ BlueToothino_B/BlueToothino_B/*.pdb
+ BlueToothino_B/BlueToothino_B/*.ipdb
+ BlueToothino_B/BlueToothino_B/*.pgc
+ BlueToothino_B/BlueToothino_B/*.pgd
+ BlueToothino_B/BlueToothino_B/*.rsp
+ BlueToothino_B/BlueToothino_B/*.sbr
+ BlueToothino_B/BlueToothino_B/*.tlb
+ BlueToothino_B/BlueToothino_B/*.tli
+ BlueToothino_B/BlueToothino_B/*.tlh
+ BlueToothino_B/BlueToothino_B/*.tmp
+ BlueToothino_B/BlueToothino_B/*.tmp_proj
+ BlueToothino_B/BlueToothino_B/*_wpftmp.csproj
+ BlueToothino_B/BlueToothino_B/*.log
+ BlueToothino_B/BlueToothino_B/*.vspscc
+ BlueToothino_B/BlueToothino_B/*.vssscc
+ BlueToothino_B/BlueToothino_B/.builds
+ BlueToothino_B/BlueToothino_B/*.pidb
+ BlueToothino_B/BlueToothino_B/*.svclog
+ BlueToothino_B/BlueToothino_B/*.scc
 
 # Visual C++ cache files
-BlueToothino_B/ipch/
-BlueToothino_B/*.aps
-BlueToothino_B/*.ncb
-BlueToothino_B/*.opendb
-BlueToothino_B/*.opensdf
-BlueToothino_B/*.sdf
-BlueToothino_B/*.cachefile
-BlueToothino_B/*.VC.db
-BlueToothino_B/*.VC.VC.opendb
+ BlueToothino_B/BlueToothino_B/ipch/
+ BlueToothino_B/BlueToothino_B/*.aps
+ BlueToothino_B/BlueToothino_B/*.ncb
+ BlueToothino_B/BlueToothino_B/*.opendb
+ BlueToothino_B/BlueToothino_B/*.opensdf
+ BlueToothino_B/BlueToothino_B/*.sdf
+ BlueToothino_B/BlueToothino_B/*.cachefile
+ BlueToothino_B/BlueToothino_B/*.VC.db
+ BlueToothino_B/BlueToothino_B/*.VC.VC.opendb
 
 
  Visual Studio code coverage results
-BlueToothino_B/*.coverage
-BlueToothino_B/*.coveragexml
+ BlueToothino_B/BlueToothino_B/*.coverage
+ BlueToothino_B/BlueToothino_B/*.coveragexml
 
 # Prerequisites
-BlueToothino_B/*.d
+ BlueToothino_B/BlueToothino_B/*.d
 
 # Compiled Object files
-BlueToothino_B/.slo
-BlueToothino_B/*.lo
-BlueToothino_B/*.o
-BlueToothino_B/*.obj
+ BlueToothino_B/BlueToothino_B/.slo
+ BlueToothino_B/BlueToothino_B/*.lo
+ BlueToothino_B/BlueToothino_B/*.o
+ BlueToothino_B/BlueToothino_B/*.obj
 
 # Precompiled Headers
-BlueToothino_B/*.gch
-BlueToothino_B/*.pch
+ BlueToothino_B/BlueToothino_B/*.gch
+ BlueToothino_B/BlueToothino_B/*.pch
 
 # Compiled Dynamic libraries
-BlueToothino_B/*.so
-BlueToothino_B/*.dylib
-BlueToothino_B/*.dll
+ BlueToothino_B/BlueToothino_B/*.so
+ BlueToothino_B/BlueToothino_B/*.dylib
+ BlueToothino_B/BlueToothino_B/*.dll
 
 # Fortran module files
-BlueToothino_B/*.mod
-BlueToothino_B/*.smod
+ BlueToothino_B/BlueToothino_B/*.mod
+ BlueToothino_B/BlueToothino_B/*.smod
 
 # Compiled Static libraries
-BlueToothino_B/*.lai
-BlueToothino_B/*.la
-BlueToothino_B/*.a
-BlueToothino_B/*.lib
+ BlueToothino_B/BlueToothino_B/*.lai
+ BlueToothino_B/BlueToothino_B/*.la
+ BlueToothino_B/BlueToothino_B/*.a
+ BlueToothino_B/BlueToothino_B/*.lib
 
 # Executables
-BlueToothino_B/*.exe
-BlueToothino_B/*.out
-BlueToothino_B/*.app
+ BlueToothino_B/BlueToothino_B/*.exe
+ BlueToothino_B/BlueToothino_B/*.out
+ BlueToothino_B/BlueToothino_B/*.app
 
-#----------------------MicroOLED/MicroOled
-MicroOLED/MicroOled/*.rsuser
-MicroOLED/MicroOled/*.suo
-MicroOLED/MicroOled/*.user
-MicroOLED/MicroOled/*.userosscache
-MicroOLED/MicroOled/*.sln.docstates
-
-# User-specific files (MonoDevelop/Xamarin Studio)
-MicroOLED/MicroOled/*.userprefs
-
-
-MicroOLED/MicroOled/*.rsuser
-MicroOLED/MicroOled/*.suo
-MicroOLED/MicroOled/*.user
-MicroOLED/MicroOled/*.userosscache
-MicroOLED/MicroOled/*.sln.docstates
+#----------------------MicroOLED/MicroOled/MicroOled
+MicroOLED/MicroOled/MicroOled/*.rsuser
+MicroOLED/MicroOled/MicroOled/*.suo
+MicroOLED/MicroOled/MicroOled/*.user
+MicroOLED/MicroOled/MicroOled/*.userosscache
+MicroOLED/MicroOled/MicroOled/*.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-MicroOLED/MicroOled/*.userprefs
+MicroOLED/MicroOled/MicroOled/*.userprefs
+
+
+MicroOLED/MicroOled/MicroOled/*.rsuser
+MicroOLED/MicroOled/MicroOled/*.suo
+MicroOLED/MicroOled/MicroOled/*.user
+MicroOLED/MicroOled/MicroOled/*.userosscache
+MicroOLED/MicroOled/MicroOled/*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+MicroOLED/MicroOled/MicroOled/*.userprefs
 
 # Build results
-MicroOLED/MicroOled/[Dd]ebug/
-MicroOLED/MicroOled/[Dd]ebugPublic/
-MicroOLED/MicroOled/[Rr]elease/
-MicroOLED/MicroOled/[Rr]eleases/
-MicroOLED/MicroOled/x64/
-MicroOLED/MicroOled/x86/
-MicroOLED/MicroOled/[Ww][Ii][Nn]32/
-MicroOLED/MicroOled/[Aa][Rr][Mm]/
-MicroOLED/MicroOled/[Aa][Rr][Mm]64/
-MicroOLED/MicroOled/bld/
-MicroOLED/MicroOled/[Bb]in/
-MicroOLED/MicroOled/[Oo]bj/
-MicroOLED/MicroOled/[Ll]og/
-MicroOLED/MicroOled/[Ll]ogs/
+MicroOLED/MicroOled/MicroOled/[Dd]ebug/
+MicroOLED/MicroOled/MicroOled/[Dd]ebugPublic/
+MicroOLED/MicroOled/MicroOled/[Rr]elease/
+MicroOLED/MicroOled/MicroOled/[Rr]eleases/
+MicroOLED/MicroOled/MicroOled/x64/
+MicroOLED/MicroOled/MicroOled/x86/
+MicroOLED/MicroOled/MicroOled/[Ww][Ii][Nn]32/
+MicroOLED/MicroOled/MicroOled/[Aa][Rr][Mm]/
+MicroOLED/MicroOled/MicroOled/[Aa][Rr][Mm]64/
+MicroOLED/MicroOled/MicroOled/bld/
+MicroOLED/MicroOled/MicroOled/[Bb]in/
+MicroOLED/MicroOled/MicroOled/[Oo]bj/
+MicroOLED/MicroOled/MicroOled/[Ll]og/
+MicroOLED/MicroOled/MicroOled/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-MicroOLED/MicroOled/.vs/
+MicroOLED/MicroOled/MicroOled/.vs/
 
 # Files built by Visual Studio
-MicroOLED/MicroOled/*_i.c
-MicroOLED/MicroOled/*_p.c
-MicroOLED/MicroOled/*_h.h
-MicroOLED/MicroOled/*.ilk
-MicroOLED/MicroOled/*.meta
-MicroOLED/MicroOled/*.obj
-MicroOLED/MicroOled/*.iobj
-MicroOLED/MicroOled/*.pch
-MicroOLED/MicroOled/*.pdb
-MicroOLED/MicroOled/*.ipdb
-MicroOLED/MicroOled/*.pgc
-MicroOLED/MicroOled/*.pgd
-MicroOLED/MicroOled/*.rsp
-MicroOLED/MicroOled/*.sbr
-MicroOLED/MicroOled/*.tlb
-MicroOLED/MicroOled/*.tli
-MicroOLED/MicroOled/*.tlh
-MicroOLED/MicroOled/*.tmp
-MicroOLED/MicroOled/*.tmp_proj
-MicroOLED/MicroOled/*_wpftmp.csproj
-MicroOLED/MicroOled/*.log
-MicroOLED/MicroOled/*.vspscc
-MicroOLED/MicroOled/*.vssscc
-MicroOLED/MicroOled/.builds
-MicroOLED/MicroOled/*.pidb
-MicroOLED/MicroOled/*.svclog
-MicroOLED/MicroOled/*.scc
+MicroOLED/MicroOled/MicroOled/*_i.c
+MicroOLED/MicroOled/MicroOled/*_p.c
+MicroOLED/MicroOled/MicroOled/*_h.h
+MicroOLED/MicroOled/MicroOled/*.ilk
+MicroOLED/MicroOled/MicroOled/*.meta
+MicroOLED/MicroOled/MicroOled/*.obj
+MicroOLED/MicroOled/MicroOled/*.iobj
+MicroOLED/MicroOled/MicroOled/*.pch
+MicroOLED/MicroOled/MicroOled/*.pdb
+MicroOLED/MicroOled/MicroOled/*.ipdb
+MicroOLED/MicroOled/MicroOled/*.pgc
+MicroOLED/MicroOled/MicroOled/*.pgd
+MicroOLED/MicroOled/MicroOled/*.rsp
+MicroOLED/MicroOled/MicroOled/*.sbr
+MicroOLED/MicroOled/MicroOled/*.tlb
+MicroOLED/MicroOled/MicroOled/*.tli
+MicroOLED/MicroOled/MicroOled/*.tlh
+MicroOLED/MicroOled/MicroOled/*.tmp
+MicroOLED/MicroOled/MicroOled/*.tmp_proj
+MicroOLED/MicroOled/MicroOled/*_wpftmp.csproj
+MicroOLED/MicroOled/MicroOled/*.log
+MicroOLED/MicroOled/MicroOled/*.vspscc
+MicroOLED/MicroOled/MicroOled/*.vssscc
+MicroOLED/MicroOled/MicroOled/.builds
+MicroOLED/MicroOled/MicroOled/*.pidb
+MicroOLED/MicroOled/MicroOled/*.svclog
+MicroOLED/MicroOled/MicroOled/*.scc
 
 # Visual C++ cache files
-MicroOLED/MicroOled/ipch/
-MicroOLED/MicroOled/*.aps
-MicroOLED/MicroOled/*.ncb
-MicroOLED/MicroOled/*.opendb
-MicroOLED/MicroOled/*.opensdf
-MicroOLED/MicroOled/*.sdf
-MicroOLED/MicroOled/*.cachefile
-MicroOLED/MicroOled/*.VC.db
-MicroOLED/MicroOled/*.VC.VC.opendb
+MicroOLED/MicroOled/MicroOled/ipch/
+MicroOLED/MicroOled/MicroOled/*.aps
+MicroOLED/MicroOled/MicroOled/*.ncb
+MicroOLED/MicroOled/MicroOled/*.opendb
+MicroOLED/MicroOled/MicroOled/*.opensdf
+MicroOLED/MicroOled/MicroOled/*.sdf
+MicroOLED/MicroOled/MicroOled/*.cachefile
+MicroOLED/MicroOled/MicroOled/*.VC.db
+MicroOLED/MicroOled/MicroOled/*.VC.VC.opendb
 
 
  Visual Studio code coverage results
-MicroOLED/MicroOled/*.coverage
-MicroOLED/MicroOled/*.coveragexml
+MicroOLED/MicroOled/MicroOled/*.coverage
+MicroOLED/MicroOled/MicroOled/*.coveragexml
 
 # Prerequisites
-MicroOLED/MicroOled/*.d
+MicroOLED/MicroOled/MicroOled/*.d
 
 # Compiled Object files
-MicroOLED/MicroOled/.slo
-MicroOLED/MicroOled/*.lo
-MicroOLED/MicroOled/*.o
-MicroOLED/MicroOled/*.obj
+MicroOLED/MicroOled/MicroOled/.slo
+MicroOLED/MicroOled/MicroOled/*.lo
+MicroOLED/MicroOled/MicroOled/*.o
+MicroOLED/MicroOled/MicroOled/*.obj
 
 # Precompiled Headers
-MicroOLED/MicroOled/*.gch
-MicroOLED/MicroOled/*.pch
+MicroOLED/MicroOled/MicroOled/*.gch
+MicroOLED/MicroOled/MicroOled/*.pch
 
 # Compiled Dynamic libraries
-MicroOLED/MicroOled/*.so
-MicroOLED/MicroOled/*.dylib
-MicroOLED/MicroOled/*.dll
+MicroOLED/MicroOled/MicroOled/*.so
+MicroOLED/MicroOled/MicroOled/*.dylib
+MicroOLED/MicroOled/MicroOled/*.dll
 
 # Fortran module files
-MicroOLED/MicroOled/*.mod
-MicroOLED/MicroOled/*.smod
+MicroOLED/MicroOled/MicroOled/*.mod
+MicroOLED/MicroOled/MicroOled/*.smod
 
 # Compiled Static libraries
-MicroOLED/MicroOled/*.lai
-MicroOLED/MicroOled/*.la
-MicroOLED/MicroOled/*.a
-MicroOLED/MicroOled/*.lib
+MicroOLED/MicroOled/MicroOled/*.lai
+MicroOLED/MicroOled/MicroOled/*.la
+MicroOLED/MicroOled/MicroOled/*.a
+MicroOLED/MicroOled/MicroOled/*.lib
 
 # Executables
-MicroOLED/MicroOled/*.exe
-MicroOLED/MicroOled/*.out
-MicroOLED/MicroOled/*.app
+MicroOLED/MicroOled/MicroOled/*.exe
+MicroOLED/MicroOled/MicroOled/*.out
+MicroOLED/MicroOled/MicroOled/*.app
 
 
 #----------------------CsharpOledHelper/
