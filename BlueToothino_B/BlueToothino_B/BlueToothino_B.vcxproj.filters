@@ -19,6 +19,7 @@
     <None Include="src\arduino folders read me.txt">
       <Filter>Misc Files</Filter>
     </None>
+    <None Include="ButtonsAndLEDS_B.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.BlueToothino_B.vsarduino.h">

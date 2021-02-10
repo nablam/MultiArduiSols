@@ -23,9 +23,9 @@
  All text above, and the splash screen below must be
  included in any redistribution.
  **************************************************************************/
-
+#pragma region OLED
 #include <splash.h>
-#include <SPI.h>
+//#include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
@@ -509,9 +509,51 @@ static const   uint8_t PROGMEM logo_bmp[] =
       B01110000, B01110000,
       B00000000, B00110000 };
 
-void setup() {
-    Serial.begin(9600);
+#pragma endregion
 
+
+
+#pragma region BLA_MASTER serial stuff
+#include <AltSoftSerial.h>
+const int buttonPinA = 5;
+const int buttonPinB = 7;
+
+const int ledPinA = 4; //yellow
+const int ledPinB = 6; //green
+const int ledPinC = 10; //red
+int readingA;
+int readingB;
+
+int ledStateA = HIGH;
+int ledStateB = HIGH;
+int ledStateC = LOW;
+int buttonStateA;
+int buttonStateB;
+int lastButtonStateA = LOW;
+int lastButtonStateB = LOW;
+
+
+int potPin_lr = A0;
+int potPin_ud = A1;
+//SoftwareSerial mySerial(0, 1); // RX, TX
+AltSoftSerial mySerial;
+char c = ' ';
+boolean NL = true;
+#pragma endregion
+
+
+void setup() {
+    
+    pinMode(buttonPinA, INPUT);
+    pinMode(buttonPinB, INPUT);
+    pinMode(ledPinA, OUTPUT);
+    pinMode(ledPinB, OUTPUT);
+    pinMode(ledPinC, OUTPUT);
+    pinMode(potPin_lr, INPUT);
+    pinMode(potPin_ud, INPUT);
+    Serial.begin(9600);
+   
+    Serial.println("BTserial started at 9600");
     // SSD1306_SWITCHCAPVCC = generate display voltage from 3.3V internally
     if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
         Serial.println(F("SSD1306 allocation failed"));
@@ -573,17 +615,52 @@ void setup() {
     testanimate(logo_bmp, LOGO_WIDTH, LOGO_HEIGHT); // Animate bitmaps
     */
     delay(1000);
+    mySerial.begin(9600);
     }
 
 void loop() {
+   ButtonALedA();
+    ButtonBLedB();
  // testdrawstyles();
     display.clearDisplay();
 
     //  display.drawBitmap(  0,  0, splash2_data, splash2_width, splash2_height, 1);
     display.drawBitmap(0, 0, face01, 128, 64, 1);
     display.display();
-    delay(1000);
+    loopAltSoft();
+    //delay(1000);
     }
+
+
+void loopAltSoft()
+    {
+     // Read from the Bluetooth module and send to the Arduino Serial Monitor
+    if (mySerial.available())
+        {
+        c = mySerial.read();
+        Serial.write(c);
+        }
+
+
+        // Read from the Serial Monitor and send to the Bluetooth module
+    if (Serial.available())
+        {
+        c = Serial.read();
+
+        // do not send line end characters to the HM-10
+        if (c != 10 & c != 13)
+            {
+            mySerial.write(c);
+            }
+
+            // Echo the user input to the main window. 
+            // If there is a new line print the ">" character.
+        if (NL) { Serial.print("\r\n>");  NL = false; }
+        Serial.write(c);
+        if (c == 10) { NL = true; }
+        }
+    }
+
 
 void testdrawline() {
     int16_t i;
@@ -873,4 +950,70 @@ void testanimate(const uint8_t* bitmap, uint8_t w, uint8_t h) {
                 }
             }
         }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+unsigned long lastDebounceTimeA = 0;  // the last time the output pin was toggled
+unsigned long debounceDelayA = 50;    // the debounce time; increase if the output flickers
+unsigned long lastDebounceTimeB = 0;
+unsigned long debounceDelayB = 50;
+
+void ButtonALedA() {
+    readingA = digitalRead(buttonPinA);
+     // If the switch changed, due to noise or pressing:
+    if (readingA != lastButtonStateA) {
+        lastDebounceTimeA = millis(); // reset the debouncing timer
+        }
+    if ((millis() - lastDebounceTimeA) > debounceDelayA) {
+  // whatever the reading is at, it's been there for longer than the debounce
+  // delay, so take it as the actual current state:
+
+  // if the button state has changed:
+        if (readingA != buttonStateA) {
+            buttonStateA = readingA;
+
+            // only toggle the LED if the new button state is HIGH
+            if (buttonStateA == HIGH) {
+                ledStateA = !ledStateA;
+                }
+            }
+        }
+    digitalWrite(ledPinA, ledStateA);
+        // save the reading. Next time through the loop, it'll be the lastButtonState:
+    lastButtonStateA = readingA;
+    }
+void ButtonBLedB() {
+    readingB = digitalRead(buttonPinB);
+    if (readingB != lastButtonStateB) {
+        lastDebounceTimeB = millis();
+        }
+    if ((millis() - lastDebounceTimeB) > debounceDelayB) {
+        if (readingB != buttonStateB) {
+            buttonStateB = readingB;
+            if (buttonStateB == HIGH) {
+                ledStateB = !ledStateB;
+                }
+            }
+        }
+    digitalWrite(ledPinB, ledStateB);
+    lastButtonStateB = readingB;
+    }
+
+void TestLedAandB_on_red_on() {
+    if (ledStateA == HIGH && ledStateB == HIGH) {
+        digitalWrite(ledPinC, HIGH);
+        }
+    else
+        digitalWrite(ledPinC, LOW);
     }
